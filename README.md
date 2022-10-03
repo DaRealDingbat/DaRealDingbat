@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [In The Repositories Tab](In The Repositories Tab)
 
-- 📝 My developer blog [Coming Soon](Coming Soon)
+- 📝 My developer blog (Coming Soon)
 
 - 💬 Ask me about **HTML**
 
