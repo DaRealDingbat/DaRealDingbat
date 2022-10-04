@@ -5,4 +5,8 @@
   <a href="https://mastodon.technology/web/@diamond">
   <img src="https://img.shields.io/badge/-Mastodon-%235a44d9?logo=mastodon&logoColor=white">
 </p>
-
+  
+  <p align="center">
+  <a href="https://hackaday.io/DaRealDingbat">
+  <img src="https://img.shields.io/badge/-Hackaday.io-%235a44d9?logo=hackaday&logoColor=white&color=black">
+</p>
